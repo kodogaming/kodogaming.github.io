@@ -1,0 +1,10 @@
+body {
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background-image: url('http://i46.tinypic.com/969cgn.gif');
+	background-repeat: repeat;
+}
+#mainCanvas {
+	background-repeat: repeat;
+}
